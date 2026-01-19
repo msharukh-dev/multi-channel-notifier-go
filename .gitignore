@@ -24,6 +24,18 @@ profile.cov
 go.work
 go.work.sum
 
+.env
+API_SPECIFICATION.md
+APIS_COMPLETE.md
+CHECKLIST.md
+CLIENT_INTEGRATION.md
+DATABASE_SETUP.md
+DEPLOYMENT.md
+PRODUCTION_READY.md
+QUICKSTART.md
+START_HERE.md
+SUMMARY.md
+
 # env file
 .env
 
